@@ -1,0 +1,1 @@
+essa versão é curta para ver rapidinho. só funciona se estiver em um ambiente laravel
